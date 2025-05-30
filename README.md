@@ -14,13 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Subhasree Patro - Introduction</title>
-  <style>
-    body {
-      background: linear-gradient(to right, #1f1c2c, #928dab);
-      color: #ffffff;
-      font-family: 'Segoe UI', sans-serif;
+I am Subhasree Patro
